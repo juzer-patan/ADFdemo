@@ -1,6 +1,7 @@
 {
 	"name": "Incrementalcopy",
 	"properties": {
+		"description": "This pipeline has Git SCM",
 		"activities": [
 			{
 				"name": "Lookup_OldWaterMarkValue",
